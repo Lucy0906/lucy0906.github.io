@@ -10,30 +10,13 @@ redirect_from:
 
 Education
 ======
-* MCS. in Computer Science, Rice University, 2022 (expected)
-* B.S. in Computer Science, Virginia Tech, 2021
+* MCS. in Bussiness Analytics, Baruch College, 2025 (expected)
 
 Work experience
 ======
-May 2022 - August 2022
-* Software Engineer -- Amazon Web Services
-  * Duties included: Developed An Intelligent Resume Builder
-  * Supervisor: Ali Sina
-  * 
-* Summer 2020: Software Engineer Intern
-  * Forkaia Corporation
-  * Duties included: Developed An Intelligent Resume Builder
-  * Supervisor: Ali Sina
-  
-* Summer 2020: Undergraduate Research Assistant
-  * Virginia Tech
-  * Duties included: Tagging issues
-  * Supervisor: Dr. Hoda Eldardiry
-
-* Spring 2020: Undergraduate Research Assistant
-  * Virginia Tech
-  * Duties included: Tagging issues
-  * Supervisor: Dr. Yunhui Zhu
+December 2023 - May 2024
+* Bussiness Analyst -- Bitmart
+  * Duties included: Developed An Intelligent System
   
 Skills
 ======
@@ -53,10 +36,7 @@ Publications
   
 Service and leadership
 ======
-* Media director, International Student Association at Virginia Tech (2018.03 - 2020.05)
-* Webmaster, International Student Association at Virginia Tech (2017.08 - 2018.03)
-* Director, Model United Nations Club at Nanjing Senior High (2015.08 - 2016.07)
-* Co-Director, Waves Volunteer Team at Nanjing Senior High (2015.08 - 2016.07)
+
 
 
 For more info
