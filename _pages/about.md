@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I'm Lucy Chen.
+
+I am currently a Data Analyst at BitMart. I build ETL pipelines that produce modeling datasets for Data Science. My work leverages cloud technologies to efficiently make data available for business decision making and predictive modeling.
 
 Education
 ======
