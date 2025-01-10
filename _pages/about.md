@@ -10,10 +10,15 @@ redirect_from:
 
 Education
 ======
-* MCS. in Bussiness Analytics, Baruch College, 2025 (expected)
+* MS in Bussiness Analytics, Baruch College, 2025 (expected)
+* BS in Economics, Nanjing Normal University
 
 Work experience
 ======
+* Fall 2024: Teaching Assistant
+  * Baruch College
+  * Duties included: Tagging issues
+
 December 2023 - May 2024
 * Bussiness Analyst -- Bitmart
   * Duties included: Developed An Intelligent System
@@ -36,9 +41,5 @@ Publications
   
 Service and leadership
 ======
-
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* Rewrite The Code
+* Grace Hopper Celebration
