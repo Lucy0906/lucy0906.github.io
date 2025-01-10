@@ -11,19 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Virginia Tech, 2021 (expected)
+* M.S. in Business Anlytics, Baruch College, 2025 (expected)
+* B.S  in Economics, Nanjing Normal University
 
 Work experience
 ======
-* Summer 2020: Undergraduate Research Assistant
-  * Virginia Tech
+* Fall 2024: Teaching Assistant
+  * Baruch College
   * Duties included: Tagging issues
-  * Supervisor: Dr. Hoda Eldardiry
 
-* Spring 2020: Undergraduate Research Assistant
-  * Virginia Tech
+
+* Spring 2024: Data Analyst
+  * BitMart
   * Duties included: Tagging issues
-  * Supervisor: Dr. Yunhui Zhu
+
   
 Skills
 ======
